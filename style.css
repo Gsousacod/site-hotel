@@ -57,7 +57,7 @@ header li:last-child{
 }
 /*=========Hero==============*/
 .hero{
-    background-image: url(img/hero.jpg);
+    background-image: url(https://github.com/Gsousacod/site-hotel/blob/main/hero.jpg);
     background-size: cover;
     min-height: 100vh;
     color: #fff;
